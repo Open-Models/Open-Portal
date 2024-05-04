@@ -10,8 +10,6 @@ website:
   title: "Open Portal"
   navbar:
     left:
-      - href: README.md
-        text: Home
       - href: toolbox/README.md
         text: Portal
       - href: https://open-models.org
