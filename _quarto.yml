@@ -12,6 +12,10 @@ website:
     left:
       - href: README.md
         text: Home
+      - href: toolbox/README.md
+        text: Toolbox
+      - href: https://open-models.org
+        text: Knowledge Base
 
     tools:
       - icon: github
@@ -24,8 +28,6 @@ website:
   sidebar:
     style: "docked"
     contents:
-      - section: "Toolbox"
-        href: toolbox/README.md
       - section: "Standards"
         href: standards/README.md
         contents:
