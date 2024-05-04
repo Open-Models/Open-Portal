@@ -13,9 +13,11 @@ website:
       - href: README.md
         text: Home
       - href: toolbox/README.md
-        text: Toolbox
+        text: Portal
       - href: https://open-models.org
         text: Knowledge Base
+      - href: https://university.open-models.org
+        text: Open University
 
     tools:
       - icon: github
