@@ -2,7 +2,7 @@
 
 Space and tools for the digital world.
 
-Swiss knife ?
+![](assets/open-models.png){width=80%}
 
 ## Toolbox
 
