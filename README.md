@@ -6,7 +6,7 @@ A gateway to knowledge for the digital world.
 
 ## Toolbox
 
-Retrieve the list of [available tools](toolbox/) to work with open models.
+Retrieve the list of [available tools](toolbox/README.md) to work with open models.
 
 ## Education
 
