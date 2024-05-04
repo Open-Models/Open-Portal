@@ -25,14 +25,6 @@ website:
       - icon: cc-circle
         href: https://creativecommons.org/publicdomain/zero/1.0/
 
-  sidebar:
-    style: "docked"
-    contents:
-      - section: "Standards"
-        href: standards/README.md
-        contents:
-          - standards/tools.md
-
 format:
   html:
     theme: cosmo
