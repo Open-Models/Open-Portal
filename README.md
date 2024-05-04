@@ -1,6 +1,6 @@
 # Open Portal 
 
-Space and tools for the digital world.
+A gateway to knowledge for the digital world.
 
 ![](assets/open-models.png){width=80%}
 
