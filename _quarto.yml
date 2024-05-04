@@ -7,7 +7,7 @@ project:
     - standards/README.md
 
 website:
-  title: "Open Models Factory"
+  title: "Open Portal"
   navbar:
     left:
       - href: README.md
@@ -19,9 +19,9 @@ website:
 
     tools:
       - icon: github
-        href: https://github.com/Open-Models/Factory
+        href: https://github.com/Open-Models/Portal
       - icon: chat-right-dots
-        href: https://github.com/Open-Models/Factory/discussions
+        href: https://github.com/Open-Models/Portal/discussions
       - icon: cc-circle
         href: https://creativecommons.org/publicdomain/zero/1.0/
 

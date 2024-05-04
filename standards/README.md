@@ -1,4 +1,4 @@
 ## Standards
 
-List of factory standards:
+List of portal standards:
 - [Tools](tools.md)

@@ -1,4 +1,4 @@
-# Open Models Factory
+# Open Portal 
 
 Space and tools for the digital world.
 
@@ -15,8 +15,8 @@ base](https://open-models.org).
 
 ## Community
 
-The factory is managed collaboratively on [GitHub](https://github.com/Open-Models/Factory), see [contribution guidelines](contribute.md)
-if you want to provide support to build the factory and tools.
+The portal is managed collaboratively on [GitHub](https://github.com/Open-Models/Portal), see [contribution guidelines](contribute.md)
+if you want to provide support to build the portal and tools.
 
 You may find support for your open activities in the github environment, it could be useful to interact directly with
 the communities around the tools.
