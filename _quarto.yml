@@ -11,7 +11,7 @@ website:
   navbar:
     left:
       - href: toolbox/README.md
-        text: Portal
+        text: Toolbox
       - href: https://open-models.org
         text: Knowledge Base
       - href: https://university.open-models.org
