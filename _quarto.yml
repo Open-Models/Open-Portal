@@ -1,0 +1,37 @@
+project:
+  type: website
+  render:
+    - "*.md"
+    - README.md
+    - toolbox/README.md
+    - standards/README.md
+
+website:
+  title: "Open Models Factory"
+  navbar:
+    left:
+      - href: README.md
+        text: Home
+
+    tools:
+      - icon: github
+        href: https://github.com/Open-Models/Factory
+      - icon: chat-right-dots
+        href: https://github.com/Open-Models/Factory/discussions
+      - icon: cc-circle
+        href: https://creativecommons.org/publicdomain/zero/1.0/
+
+  sidebar:
+    style: "docked"
+    contents:
+      - section: "Toolbox"
+        href: toolbox/README.md
+      - section: "Standards"
+        href: standards/README.md
+        contents:
+          - standards/tools.md
+
+format:
+  html:
+    theme: cosmo
+    toc: true
