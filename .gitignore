@@ -1,1 +1,4 @@
 .*.sw[po]
+
+/.quarto/
+_site/
