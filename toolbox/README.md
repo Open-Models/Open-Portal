@@ -14,6 +14,7 @@ Find open resources or useful tools for open practices.
 
 - [OER Commons](oer-commons.md)
 - [Handbook of Open, Distance and Digital Education](handbook-odde.md)
+- [Praxis](praxis.md)
 
 ### Open Software
 
