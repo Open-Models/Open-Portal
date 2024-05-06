@@ -23,3 +23,8 @@ Find open resources or useful tools for open practices.
 ### Open Hardware
 
 - [Open Source Ecology](open-source-ecology.md)
+
+### Knowledge Base Resource List
+
+A variety of resources not yet included in the database can be found on a resource list in the open models knowledge base:
+https://open-models.org/resources.html
