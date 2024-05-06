@@ -11,5 +11,5 @@ Funding leaded by non-profit organisation [NLnet Foundation](https://en.wikipedi
 - Type: funding
 - License: NA
 - Models: open models
-- Link: https://nlnet.nl/commonsfund/
+- Link: <https://nlnet.nl/commonsfund/>
 - Active: yes

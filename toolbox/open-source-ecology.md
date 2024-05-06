@@ -12,5 +12,5 @@ Unknown
 - Type: database
 - License: ND
 - Models: open hardware
-- Link: https://www.opensourceecology.org/
+- Link: <https://www.opensourceecology.org/>
 - Active: ?

@@ -12,5 +12,5 @@ Research collaboration
 - Type: book
 - License: CC BY
 - Models: open education
-- Link: https://link.springer.com/referencework/10.1007/978-981-19-2080-6
+- Link: <https://link.springer.com/referencework/10.1007/978-981-19-2080-6>
 - Active: no

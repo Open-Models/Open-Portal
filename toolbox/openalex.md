@@ -13,5 +13,5 @@ Community led by non-profit organisation [OurResearch](https://ourresearch.org/)
 - Type: search engine, database
 - License: CC 0
 - Models: open science
-- Link: https://openalex.org/
+- Link: <https://openalex.org/>
 - Active: yes

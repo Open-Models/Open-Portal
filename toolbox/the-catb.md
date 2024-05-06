@@ -12,5 +12,5 @@ single author
 - Type: book
 - License: Open Publication License
 - Models: open software, open models
-- Link: https://monoskop.org/images/e/e0/Raymond_Eric_S_The_Cathedral_and_the_Bazaar_rev_ed.pdf
+- Link: <https://monoskop.org/images/e/e0/Raymond_Eric_S_The_Cathedral_and_the_Bazaar_rev_ed.pdf>
 - Active: no
