@@ -8,15 +8,17 @@ A gateway to knowledge in the digital world.
 
 Retrieve the list of [available tools](toolbox/README.md) to work with open models.
 
-## Education
+Visit the [knowledge base on open models](https://open-models.org) to learn more about these dynamics.
 
-Learn more about how open models work and how to get the most out of them with the [open models knowledge
-base](https://open-models.org).
+## Portal Installation
+
+A portal can be deployed to create your own database of open resources. Follow the [installation instructions](installation.md)
+to set up a portal.
 
 ## Community
 
-The portal is managed collaboratively on [GitHub](https://github.com/Open-Models/Portal), see [contribution guidelines](contribute.md)
-if you want to provide support to build the portal and tools.
+Open Portal is managed collaboratively on [GitHub](https://github.com/Open-Models/Portal), see [contribution guidelines](contribute.md)
+if you want to provide support to build it.
 
 You may find support for your open activities in the github environment, it could be useful to interact directly with
 the communities around the tools.
