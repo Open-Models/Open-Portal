@@ -8,7 +8,7 @@ if [ "$(command -v certbot)" ]
 then
     CONFIG_FILE=open-portal-ssl.conf
     # Use --test-cert to avoid real certificate
-    certbot certonly --standalone --test-cert -d $DOMAIN -m $MAIL --agree-tos -n
+    certbot certonly --standalone -d $DOMAIN -m $MAIL --agree-tos -n
 fi
 
 # Set up configuration file
