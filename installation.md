@@ -64,3 +64,10 @@ sudo docker run -e DOMAIN=portal.organisation.org -e MAIL=you@email.org -p 80:80
 ```
 
 `HTTPS`, `DOMAIN` & `MAIL` variables are required to obtain an SSL certificate using let's encrypt.
+
+**To update manually a running container**:
+```bash
+sudo docker exec CONTAINER git pull
+sudo docker exec CONTAINER quarto render --output-dir=html
+sudo docker exec CONTAINER sh -c 'cd html && ln -sf README.html index.html'
+```
