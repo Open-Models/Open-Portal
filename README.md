@@ -1,14 +1,19 @@
 # Open Portal 
 
-A gateway to knowledge in the digital world.
+> *A gateway to knowledge for the digital world.*
+
+Open portals provide a way to organize and explore open resources and digital commons databases, a place to access open
+models and gather openly shared knowledge tools. A new generation of databases to build search engines for digital commons.
+
+**Development stage:** Still at the concept stage with this primitive proof of concept.
 
 ![](assets/open-models.png){width=80%}
 
 ## Toolbox
 
-Retrieve the list of [available tools](toolbox/README.md) to work with open models.
+Tools are collected and made available in the [toolbox](toolbox/README.md). Retrieve all kinds of useful resources to work with open models.
 
-Visit the [knowledge base on open models](https://open-models.org) to learn more about these dynamics.
+**Education:** To learn more about these dynamics, visit the [knowledge base on open models](https://open-models.org).
 
 ## Portal Installation
 
@@ -18,9 +23,9 @@ to set up a portal.
 ## Community
 
 Open Portal is managed collaboratively on [GitHub](https://github.com/Open-Models/Portal), see [contribution guidelines](contribute.md)
-if you want to provide support to build it.
+if you want to provide support to build the open portal technology.
 
-You may find support for your open activities in the github environment, it could be useful to interact directly with
+You may find support for your open activities in the GitHub environment, it could be useful to interact directly with
 the communities around the tools.
 
 ## License
