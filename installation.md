@@ -60,7 +60,7 @@ The portal is created using sources of the local repository.
 **To initiate a portal served under https:**
 ```bash
 sudo docker build --build-arg HTTPS=true -t portal-image .
-sudo docker run -e DOMAIN=portal.organisation.org -e MAIL=you@email.org -p 80:80 -p 443:443 portal-image
+sudo docker run -e DOMAIN=portal.organisation.org -e MAIL=you@email.org --restart always -p 80:80 -p 443:443 portal-image
 ```
 
 `HTTPS`, `DOMAIN` & `MAIL` variables are required to obtain an SSL certificate using let's encrypt.
