@@ -7,15 +7,14 @@ project:
     - standards/README.md
 
 website:
-  title: "Open Portal"
+  title: "Open Models"
   navbar:
+    logo-href: https://open-models.org
     left:
-      - href: toolbox/README.md
-        text: Toolbox
       - href: https://open-models.org
         text: Knowledge Base
-      - href: https://university.open-models.org
-        text: Open University
+      - href: README.md
+        text: Portal
 
     tools:
       - icon: github
